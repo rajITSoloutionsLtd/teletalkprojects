@@ -1,0 +1,35 @@
+User Mannual..
+
+
+0.At very first you  have to make it two folder one is Source folder, where your all the scanning files are stored and another is the Destination folder where your all genarated files will be stored.
+
+1.First Press The button "Upload Folder" which is on the top left   corner in the Graphics User Interface.
+
+2.After than getting the image press the button "Set Destination" for fixing the destination folder where you want to compile all those files.
+
+3.Next you have to insert the Mobile number by the image which is displaying on the left og interface.
+
+4.If there are lots of of number is similar u can set prefix by pressing Prefix button. Its on the top corner of the right side oof the interface.
+
+5.And lastly press the Save Data and Go Next! Button. To compile the proccess.
+
+  
+
+
+
+
+
+
+Shortcut From Keyboard..
+
+
+1. Ctrl+U for Selecting The Source Folder.
+
+2. Ctrl+D For Selecting The Destination Folder.
+
+3. Ctrl+Enter For Saving The file in the Destination Folder and it will converted into Two different Jpg. file with the User Number. For    example 01747965857_NID.jpg    & 01747965857_SAF.jpg
+
+
+
+Anykind of help please contact with me Er.Sadiq Hannan (01747965857)
+raj IT Solutions Ltd.
